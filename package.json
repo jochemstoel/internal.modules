@@ -1,0 +1,11 @@
+{
+  "name": "internal.modules",
+  "version": "0.0.3b",
+  "description": "Access Node core modules with elegance.",
+  "main": "index.js",
+  "author": "Jochem Stoel",
+  "license": "MIT",
+  "dependencies": {
+    "camelcase": "^5.0.0"
+  }
+}
